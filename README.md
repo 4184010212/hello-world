@@ -1,2 +1,2 @@
 # hello-world
-just another respository
+Learn Git and GitHub without any code!
